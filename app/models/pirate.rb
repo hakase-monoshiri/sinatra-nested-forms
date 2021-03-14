@@ -5,7 +5,7 @@ class Pirate
     @@all = []
 
     def self.all
-        @@alll
+        @@all
     end
 
     def initialize(params)
@@ -14,6 +14,6 @@ class Pirate
         @height = params[:height]
         self.class.all << self
     end
-    
+
 
 end
