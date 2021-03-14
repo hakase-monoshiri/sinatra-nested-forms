@@ -5,7 +5,7 @@ class Ship
     @@all = []
 
     def self.all
-        @@alll
+        @@all
     end
 
     def self.clear
